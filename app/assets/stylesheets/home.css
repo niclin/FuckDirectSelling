@@ -36,3 +36,15 @@
 .navbar-inverse {
   border: none;
 }
+
+.fb-like-box, .fb-like-box span, .fb-like-box span iframe[style] {
+  width: 100% !important;
+}
+
+.fb-comments, .fb-comments iframe[style] {
+    width: 100% !important;
+}
+
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 100% !important;
+}
